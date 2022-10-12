@@ -1,0 +1,179 @@
+2022-10-10 12:04:45,942  INFO [main] SauceDemo:57 - URL is Opened
+2022-10-10 12:04:52,601  INFO [main] SauceDemo:65 - Home page is opened
+2022-10-10 12:04:55,139  INFO [main] SauceDemo:18 - apply the validation
+2022-10-10 12:04:55,248  INFO [main] SauceDemo:74 - end of the program
+2022-10-10 12:04:56,473  INFO [main] SauceDemo:76 - Browser is closed
+2022-10-10 12:05:14,556  INFO [main] SauceDemo:47 - Browser is opened
+2022-10-10 12:05:15,745  INFO [main] SauceDemo:57 - URL is Opened
+2022-10-10 12:05:17,467  INFO [main] SauceDemo:65 - Home page is opened
+2022-10-10 12:05:28,826  INFO [main] SauceDemo:16 - apply the validation
+2022-10-10 12:05:28,991  INFO [main] SauceDemo:74 - end of the program
+2022-10-10 12:05:30,205  INFO [main] SauceDemo:76 - Browser is closed
+2022-10-10 12:05:35,292  INFO [main] SauceDemo:47 - Browser is opened
+2022-10-10 12:05:41,904  INFO [main] SauceDemo:57 - URL is Opened
+2022-10-10 12:05:44,362  INFO [main] SauceDemo:65 - Home page is opened
+2022-10-10 12:05:53,145  INFO [main] SauceDemo:23 - Logout is done
+2022-10-10 12:05:53,443  INFO [main] SauceDemo:27 - apply the validation
+2022-10-10 12:05:53,483  INFO [main] SauceDemo:74 - end of the program
+2022-10-10 12:05:55,001  INFO [main] SauceDemo:76 - Browser is closed
+2022-10-10 12:06:00,961  INFO [main] SauceDemo:47 - Browser is opened
+2022-10-10 12:06:05,807  INFO [main] SauceDemo:57 - URL is Opened
+2022-10-10 12:06:06,874  INFO [main] SauceDemo:65 - Home page is opened
+2022-10-10 12:06:13,669  INFO [main] SauceDemo:20 - apply validation
+2022-10-10 12:06:13,818  INFO [main] SauceDemo:74 - end of the program
+2022-10-10 12:06:14,299  INFO [main] SauceDemo:76 - Browser is closed
+2022-10-10 12:06:21,380  INFO [main] SauceDemo:47 - Browser is opened
+2022-10-10 12:06:25,048  INFO [main] SauceDemo:57 - URL is Opened
+2022-10-10 12:06:26,069  INFO [main] SauceDemo:65 - Home page is opened
+2022-10-10 12:06:29,480  INFO [main] SauceDemo:32 - apply the validation
+2022-10-10 12:06:29,533  INFO [main] SauceDemo:74 - end of the program
+2022-10-10 12:06:30,252  INFO [main] SauceDemo:76 - Browser is closed
+2022-10-10 12:06:35,386  INFO [main] SauceDemo:47 - Browser is opened
+2022-10-10 12:06:40,283  INFO [main] SauceDemo:57 - URL is Opened
+2022-10-10 12:06:40,986  INFO [main] SauceDemo:65 - Home page is opened
+2022-10-10 12:06:41,251  INFO [main] SauceDemo:21 - Add to cart
+2022-10-10 12:06:45,889  INFO [main] SauceDemo:27 - all product add to cart
+2022-10-10 12:06:45,938  INFO [main] SauceDemo:74 - end of the program
+2022-10-10 12:06:46,480  INFO [main] SauceDemo:76 - Browser is closed
+2022-10-10 12:06:48,677  INFO [main] SauceDemo:47 - Browser is opened
+2022-10-10 12:06:51,978  INFO [main] SauceDemo:57 - URL is Opened
+2022-10-10 12:06:53,058  INFO [main] SauceDemo:65 - Home page is opened
+2022-10-10 12:07:23,660  INFO [main] SauceDemo:24 - apply the validation
+2022-10-10 12:07:23,780  INFO [main] SauceDemo:74 - end of the program
+2022-10-10 12:07:28,420  INFO [main] SauceDemo:76 - Browser is closed
+2022-10-10 12:25:33,226  INFO [main] SauceDemo:57 - URL is Opened
+2022-10-10 12:25:44,056  INFO [main] SauceDemo:65 - Home page is opened
+2022-10-10 12:25:57,956  INFO [main] SauceDemo:18 - apply the validation
+2022-10-10 12:25:58,017  INFO [main] SauceDemo:74 - end of the program
+2022-10-10 12:26:02,798  INFO [main] SauceDemo:76 - Browser is closed
+2022-10-10 12:26:13,687  INFO [main] SauceDemo:40 - Browser is opened
+2022-10-10 12:26:33,204  INFO [main] SauceDemo:57 - URL is Opened
+2022-10-10 12:26:44,142  INFO [main] SauceDemo:65 - Home page is opened
+2022-10-10 12:26:53,106  INFO [main] SauceDemo:16 - apply the validation
+2022-10-10 12:26:53,165  INFO [main] SauceDemo:74 - end of the program
+2022-10-10 12:26:59,418  INFO [main] SauceDemo:76 - Browser is closed
+2022-10-10 12:27:07,261  INFO [main] SauceDemo:40 - Browser is opened
+2022-10-10 12:27:11,565  INFO [main] SauceDemo:57 - URL is Opened
+2022-10-10 12:27:12,476  INFO [main] SauceDemo:65 - Home page is opened
+2022-10-10 12:27:17,612  INFO [main] SauceDemo:74 - end of the program
+2022-10-10 12:27:30,148  INFO [main] SauceDemo:76 - Browser is closed
+2022-10-10 12:27:40,253  INFO [main] SauceDemo:40 - Browser is opened
+2022-10-10 12:27:50,374  INFO [main] SauceDemo:57 - URL is Opened
+2022-10-10 12:27:51,682  INFO [main] SauceDemo:65 - Home page is opened
+2022-10-10 12:27:51,924  INFO [main] SauceDemo:74 - end of the program
+2022-10-10 12:27:58,057  INFO [main] SauceDemo:76 - Browser is closed
+2022-10-10 12:28:04,459  INFO [main] SauceDemo:40 - Browser is opened
+2022-10-10 12:28:13,148  INFO [main] SauceDemo:57 - URL is Opened
+2022-10-10 12:28:13,973  INFO [main] SauceDemo:65 - Home page is opened
+2022-10-10 12:28:19,887  INFO [main] SauceDemo:74 - end of the program
+2022-10-10 12:28:26,018  INFO [main] SauceDemo:76 - Browser is closed
+2022-10-10 12:28:32,904  INFO [main] SauceDemo:40 - Browser is opened
+2022-10-10 12:28:38,946  INFO [main] SauceDemo:57 - URL is Opened
+2022-10-10 12:28:39,622  INFO [main] SauceDemo:65 - Home page is opened
+2022-10-10 12:29:23,226  INFO [main] SauceDemo:74 - end of the program
+2022-10-10 12:29:26,237  INFO [main] SauceDemo:76 - Browser is closed
+2022-10-10 12:29:37,428  INFO [main] SauceDemo:40 - Browser is opened
+2022-10-10 12:29:47,462  INFO [main] SauceDemo:57 - URL is Opened
+2022-10-10 12:29:56,550  INFO [main] SauceDemo:65 - Home page is opened
+2022-10-10 12:30:06,489  INFO [main] SauceDemo:74 - end of the program
+2022-10-10 12:30:09,509  INFO [main] SauceDemo:76 - Browser is closed
+2022-10-10 12:30:23,941  INFO [main] SauceDemo:40 - Browser is opened
+2022-10-10 12:30:29,535  INFO [main] SauceDemo:57 - URL is Opened
+2022-10-10 12:30:30,329  INFO [main] SauceDemo:65 - Home page is opened
+2022-10-10 12:30:38,736  INFO [main] SauceDemo:18 - apply the validation
+2022-10-10 12:30:38,804  INFO [main] SauceDemo:74 - end of the program
+2022-10-10 12:30:40,974  INFO [main] SauceDemo:76 - Browser is closed
+2022-10-10 12:30:45,061  INFO [main] SauceDemo:40 - Browser is opened
+2022-10-10 12:30:49,711  INFO [main] SauceDemo:57 - URL is Opened
+2022-10-10 12:30:50,429  INFO [main] SauceDemo:65 - Home page is opened
+2022-10-10 12:30:50,701  INFO [main] SauceDemo:16 - apply the validation
+2022-10-10 12:30:50,760  INFO [main] SauceDemo:74 - end of the program
+2022-10-10 12:30:52,066  INFO [main] SauceDemo:76 - Browser is closed
+2022-10-10 12:30:56,034  INFO [main] SauceDemo:40 - Browser is opened
+2022-10-10 12:30:59,306  INFO [main] SauceDemo:57 - URL is Opened
+2022-10-10 12:30:59,969  INFO [main] SauceDemo:65 - Home page is opened
+2022-10-10 12:31:00,403  INFO [main] SauceDemo:74 - end of the program
+2022-10-10 12:31:01,818  INFO [main] SauceDemo:76 - Browser is closed
+2022-10-10 12:31:08,443  INFO [main] SauceDemo:40 - Browser is opened
+2022-10-10 12:31:14,406  INFO [main] SauceDemo:57 - URL is Opened
+2022-10-10 12:31:15,104  INFO [main] SauceDemo:65 - Home page is opened
+2022-10-10 12:31:21,489  INFO [main] SauceDemo:74 - end of the program
+2022-10-10 12:31:22,485  INFO [main] SauceDemo:76 - Browser is closed
+2022-10-10 12:31:25,864  INFO [main] SauceDemo:40 - Browser is opened
+2022-10-10 12:31:31,047  INFO [main] SauceDemo:57 - URL is Opened
+2022-10-10 12:31:31,857  INFO [main] SauceDemo:65 - Home page is opened
+2022-10-10 12:31:39,717  INFO [main] SauceDemo:74 - end of the program
+2022-10-10 12:31:41,176  INFO [main] SauceDemo:76 - Browser is closed
+2022-10-10 12:31:48,187  INFO [main] SauceDemo:40 - Browser is opened
+2022-10-10 12:31:53,188  INFO [main] SauceDemo:57 - URL is Opened
+2022-10-10 12:31:54,455  INFO [main] SauceDemo:65 - Home page is opened
+2022-10-10 12:31:54,923  INFO [main] SauceDemo:74 - end of the program
+2022-10-10 12:31:58,209  INFO [main] SauceDemo:76 - Browser is closed
+2022-10-10 12:32:03,029  INFO [main] SauceDemo:40 - Browser is opened
+2022-10-10 12:32:05,187  INFO [main] SauceDemo:57 - URL is Opened
+2022-10-10 12:32:06,346  INFO [main] SauceDemo:65 - Home page is opened
+2022-10-10 12:32:06,688  INFO [main] SauceDemo:74 - end of the program
+2022-10-10 12:32:07,687  INFO [main] SauceDemo:76 - Browser is closed
+2022-10-10 16:23:59,044  INFO [TestNG-test=Test1-4] SauceDemo:57 - URL is Opened
+2022-10-10 16:23:59,060  INFO [TestNG-test=Test1-3] SauceDemo:57 - URL is Opened
+2022-10-10 16:23:59,057  INFO [TestNG-test=Test1-5] SauceDemo:57 - URL is Opened
+2022-10-10 16:23:59,054  INFO [TestNG-test=Test1-1] SauceDemo:57 - URL is Opened
+2022-10-10 16:23:59,051  INFO [TestNG-test=Test1-2] SauceDemo:57 - URL is Opened
+2022-10-10 16:25:01,307  INFO [TestNG-test=Test1-2] SauceDemo:65 - Home page is opened
+2022-10-10 16:25:02,104  INFO [TestNG-test=Test1-4] SauceDemo:65 - Home page is opened
+2022-10-10 16:25:02,105  INFO [TestNG-test=Test1-1] SauceDemo:65 - Home page is opened
+2022-10-10 16:25:02,127  INFO [TestNG-test=Test1-5] SauceDemo:65 - Home page is opened
+2022-10-10 16:25:02,192  INFO [TestNG-test=Test1-3] SauceDemo:65 - Home page is opened
+2022-10-10 16:27:02,992  INFO [TestNG-test=Test1-4] SauceDemo:47 - Browser is opened
+2022-10-10 16:27:03,470  INFO [TestNG-test=Test1-2] SauceDemo:47 - Browser is opened
+2022-10-10 16:27:22,058  INFO [TestNG-test=Test1-4] SauceDemo:57 - URL is Opened
+2022-10-10 16:27:22,102  INFO [TestNG-test=Test1-2] SauceDemo:57 - URL is Opened
+2022-10-10 16:27:25,915  INFO [TestNG-test=Test1-4] SauceDemo:65 - Home page is opened
+2022-10-10 16:27:25,923  INFO [TestNG-test=Test1-2] SauceDemo:65 - Home page is opened
+2022-10-10 16:28:31,006  INFO [TestNG-test=Test1-2] SauceDemo:21 - Add to cart
+2022-10-10 16:28:34,524  INFO [TestNG-test=Test1-2] SauceDemo:27 - all product add to cart
+2022-10-10 16:28:35,078  INFO [TestNG-test=Test1-2] SauceDemo:74 - end of the program
+2022-10-10 16:29:02,322  INFO [TestNG-test=Test1-4] SauceDemo:24 - apply the validation
+2022-10-10 16:29:02,376  INFO [TestNG-test=Test1-4] SauceDemo:74 - end of the program
+2022-10-10 16:47:08,972  INFO [TestNG-test=Test1-2] SauceDemo:57 - URL is Opened
+2022-10-10 16:47:09,030  INFO [TestNG-test=Test1-1] SauceDemo:57 - URL is Opened
+2022-10-10 16:47:13,492  INFO [TestNG-test=Test1-1] SauceDemo:65 - Home page is opened
+2022-10-10 16:47:13,588  INFO [TestNG-test=Test1-2] SauceDemo:65 - Home page is opened
+2022-10-10 16:47:31,050  INFO [TestNG-test=Test1-2] SauceDemo:16 - apply the validation
+2022-10-10 16:47:31,069  INFO [TestNG-test=Test1-2] SauceDemo:74 - end of the program
+2022-10-10 16:47:32,129  INFO [TestNG-test=Test1-1] SauceDemo:18 - apply the validation
+2022-10-10 16:47:32,184  INFO [TestNG-test=Test1-1] SauceDemo:74 - end of the program
+2022-10-10 16:47:35,973  INFO [TestNG-test=Test1-1] SauceDemo:76 - Browser is closed
+2022-10-10 16:47:38,214  INFO [TestNG-test=Test1-2] SauceDemo:76 - Browser is closed
+2022-10-10 16:47:52,245  INFO [TestNG-test=Test1-2] SauceDemo:47 - Browser is opened
+2022-10-10 16:47:52,372  INFO [TestNG-test=Test1-1] SauceDemo:47 - Browser is opened
+2022-10-10 16:47:55,789  INFO [TestNG-test=Test1-2] SauceDemo:57 - URL is Opened
+2022-10-10 16:47:55,798  INFO [TestNG-test=Test1-1] SauceDemo:57 - URL is Opened
+2022-10-10 16:47:57,003  INFO [TestNG-test=Test1-2] SauceDemo:65 - Home page is opened
+2022-10-10 16:47:57,047  INFO [TestNG-test=Test1-1] SauceDemo:65 - Home page is opened
+2022-10-10 16:47:58,502  INFO [TestNG-test=Test1-1] SauceDemo:23 - Logout is done
+2022-10-10 16:47:58,716  INFO [TestNG-test=Test1-1] SauceDemo:27 - apply the validation
+2022-10-10 16:47:58,810  INFO [TestNG-test=Test1-1] SauceDemo:74 - end of the program
+2022-10-10 16:47:59,634  INFO [TestNG-test=Test1-1] SauceDemo:76 - Browser is closed
+2022-10-10 16:48:00,077  INFO [TestNG-test=Test1-2] SauceDemo:20 - apply validation
+2022-10-10 16:48:00,168  INFO [TestNG-test=Test1-2] SauceDemo:74 - end of the program
+2022-10-10 16:48:01,243  INFO [TestNG-test=Test1-2] SauceDemo:76 - Browser is closed
+2022-10-10 16:48:02,274  INFO [TestNG-test=Test1-1] SauceDemo:47 - Browser is opened
+2022-10-10 16:48:04,337  INFO [TestNG-test=Test1-2] SauceDemo:47 - Browser is opened
+2022-10-10 16:48:07,062  INFO [TestNG-test=Test1-1] SauceDemo:57 - URL is Opened
+2022-10-10 16:48:08,343  INFO [TestNG-test=Test1-1] SauceDemo:65 - Home page is opened
+2022-10-10 16:48:08,758  INFO [TestNG-test=Test1-2] SauceDemo:57 - URL is Opened
+2022-10-10 16:48:09,154  INFO [TestNG-test=Test1-1] SauceDemo:32 - apply the validation
+2022-10-10 16:48:09,240  INFO [TestNG-test=Test1-1] SauceDemo:74 - end of the program
+2022-10-10 16:48:09,673  INFO [TestNG-test=Test1-2] SauceDemo:65 - Home page is opened
+2022-10-10 16:48:09,984  INFO [TestNG-test=Test1-2] SauceDemo:21 - Add to cart
+2022-10-10 16:48:10,522  INFO [TestNG-test=Test1-2] SauceDemo:27 - all product add to cart
+2022-10-10 16:48:10,609  INFO [TestNG-test=Test1-2] SauceDemo:74 - end of the program
+2022-10-10 16:48:11,109  INFO [TestNG-test=Test1-1] SauceDemo:76 - Browser is closed
+2022-10-10 16:48:11,315  INFO [TestNG-test=Test1-2] SauceDemo:76 - Browser is closed
+2022-10-10 16:48:14,012  INFO [TestNG-test=Test1-1] SauceDemo:47 - Browser is opened
+2022-10-10 16:48:21,904  INFO [TestNG-test=Test1-1] SauceDemo:57 - URL is Opened
+2022-10-10 16:48:23,044  INFO [TestNG-test=Test1-1] SauceDemo:65 - Home page is opened
+2022-10-10 16:48:53,621  INFO [TestNG-test=Test1-1] SauceDemo:24 - apply the validation
+2022-10-10 16:48:53,688  INFO [TestNG-test=Test1-1] SauceDemo:74 - end of the program
+2022-10-10 16:48:56,005  INFO [TestNG-test=Test1-1] SauceDemo:76 - Browser is closed

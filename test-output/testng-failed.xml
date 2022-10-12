@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <parameter name="browsername" value="chrome"/>
+  <test thread-count="5" parallel="classes" name="Test1(failed)">
+    <classes>
+      <class name="com.SauceDemo.TestClasses.TC02_VerifyLogoutFunctionality">
+        <methods>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+          <include name="VerifyLogoutFunctionality"/>
+        </methods>
+      </class> <!-- com.SauceDemo.TestClasses.TC02_VerifyLogoutFunctionality -->
+      <class name="com.SauceDemo.TestClasses.TC04_VerifyAddtoCartFunctionality">
+        <methods>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+          <include name="VerifyAddtoCartFunctionality"/>
+        </methods>
+      </class> <!-- com.SauceDemo.TestClasses.TC04_VerifyAddtoCartFunctionality -->
+      <class name="com.SauceDemo.TestClasses.TC01_VerifyLoginFunctionalityByMouse">
+        <methods>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+          <include name="loginFunctionality2"/>
+        </methods>
+      </class> <!-- com.SauceDemo.TestClasses.TC01_VerifyLoginFunctionalityByMouse -->
+      <class name="com.SauceDemo.TestClasses.TC01_VerifyLoginFunctionality">
+        <methods>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+          <include name="verifyLoginFunctionality"/>
+        </methods>
+      </class> <!-- com.SauceDemo.TestClasses.TC01_VerifyLoginFunctionality -->
+      <class name="com.SauceDemo.TestClasses.TC03_VerifySortingFunctionality">
+        <methods>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+          <include name="VerifySortingFunctionality"/>
+        </methods>
+      </class> <!-- com.SauceDemo.TestClasses.TC03_VerifySortingFunctionality -->
+    </classes>
+  </test> <!-- Test1(failed) -->
+</suite> <!-- Failed suite [Suite] -->
